@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KhanakSharma18/C-codes/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/KhanakSharma18/C-codes/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/KhanakSharma18/C-codes/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanakSharma18/C-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KhanakSharma18/C-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanakSharma18/C-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KhanakSharma18/C-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KhanakSharma18/C-codes/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KhanakSharma18/C-codes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KhanakSharma18/C-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KhanakSharma18/C-codes/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KhanakSharma18/C-codes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -76,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KhanakSharma18/C-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KhanakSharma18/C-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KhanakSharma18/C-codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KhanakSharma18/C-codes/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0094-binary-tree-inorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->

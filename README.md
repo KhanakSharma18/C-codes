@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
+| [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KhanakSharma18/C-codes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KhanakSharma18/C-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KhanakSharma18/C-codes/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/KhanakSharma18/C-codes/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KhanakSharma18/C-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KhanakSharma18/C-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KhanakSharma18/C-codes/tree/master/0018-4sum) |
+| [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KhanakSharma18/C-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

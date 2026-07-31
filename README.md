@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KhanakSharma18/C-codes/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
+| [0283-move-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KhanakSharma18/C-codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KhanakSharma18/C-codes/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/KhanakSharma18/C-codes/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KhanakSharma18/C-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting

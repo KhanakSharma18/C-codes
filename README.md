@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KhanakSharma18/C-codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KhanakSharma18/C-codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/KhanakSharma18/C-codes/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

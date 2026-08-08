@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0572-subtree-of-another-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Greedy
 |  |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

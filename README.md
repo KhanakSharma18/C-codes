@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KhanakSharma18/C-codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/KhanakSharma18/C-codes/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/KhanakSharma18/C-codes/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KhanakSharma18/C-codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KhanakSharma18/C-codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KhanakSharma18/C-codes/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/KhanakSharma18/C-codes/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/KhanakSharma18/C-codes/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KhanakSharma18/C-codes/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanakSharma18/C-codes/tree/master/0145-binary-tree-postorder-traversal) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KhanakSharma18/C-codes/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/KhanakSharma18/C-codes/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KhanakSharma18/C-codes/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KhanakSharma18/C-codes/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KhanakSharma18/C-codes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

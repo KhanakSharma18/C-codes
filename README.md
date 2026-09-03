@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KhanakSharma18/C-codes/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/KhanakSharma18/C-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/KhanakSharma18/C-codes/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KhanakSharma18/C-codes/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanakSharma18/C-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KhanakSharma18/C-codes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KhanakSharma18/C-codes/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KhanakSharma18/C-codes/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KhanakSharma18/C-codes/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
